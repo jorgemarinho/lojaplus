@@ -29,7 +29,6 @@ Recomendado para times: criar um backend remoto (S3 + DynamoDB) para o estado do
 1) Inicializar o Terraform
 
 ```bash
-cd /home/jorge/projetos/lojaplus
 terraform init
 ```
 
